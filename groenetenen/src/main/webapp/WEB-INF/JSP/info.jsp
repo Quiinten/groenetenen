@@ -4,12 +4,10 @@
 <!doctype html>
 <html lang='nl'>
 <head>
-<v:head title='Filiaal toevoegen' />
+<v:head title='Info' />
 </head>
 <body>
 	<v:menu />
-	<h1>Filiaal toevoegen</h1>
-	<c:url value='/filialen' var='url' />
-	<v:filiaalform url='${url}' knopTekst='Toevoegen' />
+	<h1>Alles voor de tuin</h1>
 </body>
 </html>
